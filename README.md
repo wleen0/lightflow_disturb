@@ -12,4 +12,4 @@ By generating the signal for debouncing, with the extra delay time set to avoid 
 
 **_`led_pause`_ module**  
 Calculate and find the rising edge of debounce signal, which signifies the moment when the interrupt is triggered.
-
+![GITHUB](https://github.com/wleen0/lightflow_disturb/blob/main/imgs/signal_detect.png)
