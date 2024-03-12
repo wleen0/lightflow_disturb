@@ -10,5 +10,6 @@ Once the button is pushed, the metal parts inside the button begin to connect an
 By generating the signal for debouncing, with the extra delay time set to avoid the bouncing periods.
 ![GITHUB](https://github.com/wleen0/lightflow_disturb/blob/main/imgs/debounce_btn.png)
 
+**_`led_pause`_ module**  
+Calculate and find the rising edge of debounce signal, which signifies the moment when the interrupt is triggered.
 
-123
