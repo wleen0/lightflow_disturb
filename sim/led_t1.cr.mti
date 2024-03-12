@@ -1,0 +1,36 @@
+C:/Users/user/Desktop/led_t1/sim/top_LEDctrl_tb.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/led_t1/sim/top_LEDctrl_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_LEDctrl_tb
+
+Top level modules:
+	top_LEDctrl_tb
+
+} {} {}} C:/Users/user/Desktop/led_t1/rtl/top_LEDctrl.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/led_t1/rtl/top_LEDctrl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_LEDctrl
+
+Top level modules:
+	top_LEDctrl
+
+} {} {}} C:/Users/user/Desktop/led_t1/rtl/de_bounce.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/led_t1/rtl/de_bounce.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module de_bounce
+
+Top level modules:
+	de_bounce
+
+} {} {}} C:/Users/user/Desktop/led_t1/rtl/blink_time.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/led_t1/rtl/blink_time.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module blink_time
+
+Top level modules:
+	blink_time
+
+} {} {}} C:/Users/user/Desktop/led_t1/rtl/led_pause.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/led_t1/rtl/led_pause.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module led_pause
+
+Top level modules:
+	led_pause
+
+} {} {}}

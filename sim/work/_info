@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/rtl_t
+vblink_time
+Z0 !s110 1710234637
+!i10b 1
+!s100 aE0FLiE6N@I9`GCZ5]:Oe3
+I0<^4dzePbGfaHK9E@IZ2V3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/user/Desktop/led_t1/sim
+w1710233510
+8C:/Users/user/Desktop/led_t1/rtl/blink_time.v
+FC:/Users/user/Desktop/led_t1/rtl/blink_time.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1710234636.000000
+!s107 C:/Users/user/Desktop/led_t1/rtl/blink_time.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/led_t1/rtl/blink_time.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vde_bounce
+R0
+!i10b 1
+!s100 _cf=M[T7CKa@?=>ebCeil2
+I`_>L>HEZ16ZdZUoXo86g?1
+R1
+R2
+w1709824640
+8C:/Users/user/Desktop/led_t1/rtl/de_bounce.v
+FC:/Users/user/Desktop/led_t1/rtl/de_bounce.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1710234637.000000
+!s107 C:/Users/user/Desktop/led_t1/rtl/de_bounce.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/led_t1/rtl/de_bounce.v|
+!i113 1
+R5
+R6
+vled_pause
+R0
+!i10b 1
+!s100 RG<EKh[SO92IiK<TFOIVj3
+Iob3a5AkCGAG@kkAWNF<R?0
+R1
+R2
+w1709824612
+8C:/Users/user/Desktop/led_t1/rtl/led_pause.v
+FC:/Users/user/Desktop/led_t1/rtl/led_pause.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/led_t1/rtl/led_pause.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/led_t1/rtl/led_pause.v|
+!i113 1
+R5
+R6
+vtop_LEDctrl
+!s110 1710234636
+!i10b 1
+!s100 ieNKAFPo_P0dM0Az:7lWm1
+I41PEE]l>mF9h?2`Q@V;7[1
+R1
+R2
+w1710233543
+8C:/Users/user/Desktop/led_t1/rtl/top_LEDctrl.v
+FC:/Users/user/Desktop/led_t1/rtl/top_LEDctrl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/led_t1/rtl/top_LEDctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/led_t1/rtl/top_LEDctrl.v|
+!i113 1
+R5
+R6
+ntop_@l@e@dctrl
+vtop_LEDctrl_tb
+R0
+!i10b 1
+!s100 ib@SnIC_I1@S?AA>ia@hH3
+IgaH03T:M0LN1:_HiFdZ4W0
+R1
+R2
+w1710234606
+8C:/Users/user/Desktop/led_t1/sim/top_LEDctrl_tb.v
+FC:/Users/user/Desktop/led_t1/sim/top_LEDctrl_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/led_t1/sim/top_LEDctrl_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/led_t1/sim/top_LEDctrl_tb.v|
+!i113 1
+R5
+R6
+ntop_@l@e@dctrl_tb
