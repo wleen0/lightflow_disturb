@@ -3,7 +3,7 @@ Here is the example for interrupting the LEDs to brighten or dim. Pushing button
 
 # How it works
 **_`top_LEDctrl`_ module**  
-A top module to instantiate all the button debouncing, LEDs pausing, and the state of light flowing module.  
+A top-level module to instantiate all the button debouncing, LEDs pausing, and the state of light flowing module.  
 
 **_`de_bounce`_ module**  
 Once the button is pushed, the metal parts inside the button begin to connect and disconnect several times. This causes the signal to bounce and transits multiple inputs as shown in the following figure.  
