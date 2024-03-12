@@ -8,7 +8,7 @@ A top module to instantiate all the button debouncing, LEDs pausing, and the sta
 **_`de_bounce`_ module**  
 Once the button is pushed, the metal parts inside the button begin to connect and disconnect several times. This causes the signal to bounce and transits multiple inputs as shown in the following figure.
 The way to fix the problem is to skip the bouning parts.
-[!image]https://github.com/wleen0/lightflow_disturb/blob/main/imgs/debounce_btn.png
+![GITHUB]https://github.com/wleen0/lightflow_disturb/blob/main/imgs/debounce_btn.png
 
 
 123
