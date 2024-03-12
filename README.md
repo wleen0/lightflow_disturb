@@ -19,4 +19,4 @@ Refer to the example below, the brightness of the flowing light is controlled by
 ![GITHUB](https://github.com/wleen0/lightflow_disturb/blob/main/imgs/light_brightness.png?raw=true)
 
 # Testing
-Debugging the source code and the testbench can be implemented with Vivado or ModelSim. If the testbench is executed in Visual Studio Code, it also requires Icarus Verilog and GTKWave.
+Debugging the source code and the testbench can be implemented with Vivado and ModelSim. If the testbench is executed in Visual Studio Code, it also requires Icarus Verilog and GTKWave.
