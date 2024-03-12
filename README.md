@@ -18,4 +18,5 @@ Calculate and find the rising edge of the debounce signal, which signifies the m
 Refer to the example below, the brightness of the flowing light is controlled by comparing the numbers between counter1 and counter2.
 ![GITHUB](https://github.com/wleen0/lightflow_disturb/blob/main/imgs/light_brightness.png?raw=true)
 
-
+# Testing
+Debugging the source code and the testbench can be implemented with Vivado or ModelSim. If the testbench is executed in Visual Studio Code, it also requires Icarus Verilog and GTKWave.
