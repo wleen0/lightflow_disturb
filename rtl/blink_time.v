@@ -45,7 +45,7 @@ module blink_time(
             count_s <= (count_us == us_max-8'd1 && count_ms == ms_max-10'd1) ? count_s + 10'd1 : count_s;
     end
     
-    //  Light turn on or off
+    //  Light brighter or dimmer
     always@(posedge clk_out or posedge rst) begin
         if(rst)
             brightness <= 1'b1;
