@@ -15,7 +15,7 @@ Calculate and find the rising edge of the debounce signal, which signifies the m
 ![GITHUB](https://github.com/wleen0/lightflow_disturb/blob/main/imgs/signal_detect.png)
 
 **_`blink_time`_ module**  
-LEDs are brightening and dimming in sequence. When the interrupt signal occurs, the switch_flag signal will indicate which LED is paused.
+LEDs are brightening and dimming in sequence. When the interrupt signal occurs, the switch_flag signal will indicate which LED is paused.  
 Refer to the example below, the brightness of the flowing light is controlled by comparing the numbers between counter1 and counter2.
 ![GITHUB](https://github.com/wleen0/lightflow_disturb/blob/main/imgs/light_brightness.png?raw=true)
 
