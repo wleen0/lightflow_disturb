@@ -24,3 +24,5 @@ Debugging the source code and the testbench can be implemented with Vivado and M
 # Reference
 * https://zipcpu.com/blog/2017/08/05/bounce-metric.html
 * https://www.cnblogs.com/WenGalois123/p/16360216.html
+* https://www.allaboutcircuits.com/technical-articles/introduction-to-microcontroller-timers-pwm-timers/
+* https://github.com/irdanish11/FPGA-LED-Brightness-PWM-/blob/master/pwm_counter.v
