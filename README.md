@@ -20,3 +20,7 @@ Refer to the example below, the brightness of the flowing light is controlled by
 
 # Testing
 Debugging the source code and the testbench can be implemented with Vivado and ModelSim. If the testbench is executed in Visual Studio Code, it also requires Icarus Verilog and GTKWave.
+
+# Reference
+* https://zipcpu.com/blog/2017/08/05/bounce-metric.html
+* https://www.cnblogs.com/WenGalois123/p/16360216.html
